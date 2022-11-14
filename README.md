@@ -1,7 +1,7 @@
 # Arcade Console
 #### Hong-Chi Chen, Jun-Yu (Andrew) Chen
 ## Introduction
-An Implememtation of a hands-on multigame console with 8051 written in Keil C. Able to play Bulls and Cows, Blackjack and Battleship.
+An implememtation of a hands-on multigame console with 8051 written in Keil C. Able to play Bulls and Cows, Blackjack and Battleship.
 A selection menu is made and games could be played to the users' discretion.
 
 ## Requirements
